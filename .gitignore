@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Poetry
+.poetry/
+*.lock
+
+# Docker
+postgres_data/
+*.log
+
+# IDE
+.vscode/
+.idea/
